@@ -31,7 +31,7 @@ Client = {
 		LookMeth = 'Look Up',                                                                                                                                                                                                                                                 
 		Test = '',
 		FOV = 150,
-		ChatMsg = 'Bolts Hub v6 Winning',
+		ChatMsg = 'Dev Hub v6 Winning',
 		AimPart = 'Head'
 
 
@@ -1409,7 +1409,7 @@ ESP:Toggle('Banana ESP (Monkey Business Mode)',function(boltss)
 				BillboardGui.AlwaysOnTop = true -- if its on top or not
 				BillboardGui.Size = UDim2.new(0, 50, 0, 50) -- size of it
 				BillboardGui.StudsOffset = Vector3.new(0,2,0)
-				BillboardGui.Name = bolts
+				BillboardGui.Name = bolt
 
 				TextLabel.Parent = BillboardGui -- putting textlabel into billboardgui
 				TextLabel.BackgroundColor3 = Color3.new(1,1,1) -- color
@@ -2769,8 +2769,8 @@ NFE:Button('Destroy Menu (NSFW Warning :> )',function()
 	game:GetService("Players").LocalPlayer.PlayerGui.Menew.Main.LowerBox.Codes.ToolTip.Value = "Nigger"
 	game:GetService("Players").LocalPlayer.PlayerGui.Menew.Main.LowerBox.Badges.ToolTip.Value = "OH OH"
 	game:GetService("Players").LocalPlayer.PlayerGui.Menew.Main.LowerBox.Settings.ToolTip.Value = "Cum"
-	game:GetService("Players").LocalPlayer.PlayerGui.Menew.Main.Shop.ImageLabel.TextLabel.Text = "SEXY BOLTS"
-	game:GetService("Players").LocalPlayer.PlayerGui.Menew.Main.Locker.ImageLabel.TextLabel.Text = "FUCK ME"
+	game:GetService("Players").LocalPlayer.PlayerGui.Menew.Main.Shop.ImageLabel.TextLabel.Text = "SEXY DEV"
+	game:GetService("Players").LocalPlayer.PlayerGui.Menew.Main.Locker.ImageLabel.TextLabel.Text = "LMAO SYS"
 	game:GetService("Players").LocalPlayer.PlayerGui.Menew.Main.Play.ImageLabel.TextLabel.Text = "OH OH CUM"
 	game:GetService("Players").LocalPlayer.PlayerGui.Menew.Main.LevelMeter.Visible = false
 	game:GetService("Players").LocalPlayer.PlayerGui.Menew.Main.ChallengesLabel.ImageLabel.ToolTip.Value = "Porn"
